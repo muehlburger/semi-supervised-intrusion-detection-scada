@@ -4,7 +4,7 @@ This repository belongs to the paper of the same title by Herbert Mühlburger an
 
 ## Status
 
-The repository holds preliminary notebooks of this study. The final pipeline of the paper could not be recovered.
+The repository currently holds preliminary notebooks of this study. The final pipeline of the paper will be made available here.
 
 The notebooks train LSTM autoencoders on the SCADA data set, but they are not the paper's configuration: their epoch counts differ, and the sample-size experiments and the threshold scan are not included. They do not reproduce the published results.
 
