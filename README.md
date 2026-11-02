@@ -2,6 +2,8 @@
 
 This repository belongs to the paper of the same title by Herbert Mühlburger and Franz Wotawa (IEEE AITest 2022).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23889624.svg)](https://doi.org/10.5281/zenodo.23889624)
+
 ## Final pipeline
 
 The folder `final/` holds the pipeline of the paper: PyTorch notebooks, adapted from the [LSTM autoencoder tutorial by Curiousily](https://www.curiousily.com/posts/time-series-anomaly-detection-using-lstm-autoencoder-with-pytorch-in-python/), and the trained models for all six sample sizes.
